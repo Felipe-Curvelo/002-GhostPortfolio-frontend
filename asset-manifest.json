@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/002-GhostPortfolio-frontend/static/js/main.9a4deaa9.js",
+    "main.js": "/002-GhostPortfolio-frontend/static/js/main.f22f99ea.js",
     "static/media/Logo.png": "/002-GhostPortfolio-frontend/static/media/Logo.f4edd9e7f5a76b2d29bc.png",
     "index.html": "/002-GhostPortfolio-frontend/index.html",
-    "main.9a4deaa9.js.map": "/002-GhostPortfolio-frontend/static/js/main.9a4deaa9.js.map"
+    "main.f22f99ea.js.map": "/002-GhostPortfolio-frontend/static/js/main.f22f99ea.js.map"
   },
   "entrypoints": [
-    "static/js/main.9a4deaa9.js"
+    "static/js/main.f22f99ea.js"
   ]
 }
