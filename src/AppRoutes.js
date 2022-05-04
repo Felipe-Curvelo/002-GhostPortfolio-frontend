@@ -84,6 +84,7 @@ const AppRoutes = () => {
                         {/* Rotas Protegidas */}
                         
                         <Route exact path ="/" element={<Private><Home /></Private>} />
+                        <Route path = "/002-GhostPortfolio-frontend/*" element={<Private><Home /></Private>}> </Route>
                         <Route exact path ="/transactions" element={<Private><TransactionsTable /></Private>} />
                         <Route exact path ="/userdata" element={<Private><UserData /></Private>} />
                 </Routes>
